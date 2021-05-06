@@ -1,0 +1,5 @@
+in_mem_repository:
+  max_item_size: 100
+
+model:
+  weight_file_name: "assets/movie_review_classifier.joblib"

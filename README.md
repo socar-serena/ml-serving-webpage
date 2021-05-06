@@ -1,2 +1,2 @@
-# ml-serving-webpage
-모델링팀 파랑새모임 1번째 프로젝트
+# ml-serving-web-page
+머신러닝 모델 서빙 웹페이지

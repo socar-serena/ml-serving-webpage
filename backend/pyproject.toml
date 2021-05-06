@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ml-serving-web-page-backend"
+version = "0.1.0"
+description = ""
+authors = ["socar-serena <serena@socar.kr>"]
+
+[tool.poetry.dependencies]
+python = "3.7.8"
+uvicorn = "^0.13.4"
+fastapi = "^0.63.0"
+dependency-injector = "^4.32.2"
+torch = "^1.8.1"
+joblib = "^1.0.1"
+PyYAML = "^5.4.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
